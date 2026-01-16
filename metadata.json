@@ -1,0 +1,9 @@
+{
+  "name": "HSC Smart Notebook",
+  "description": "A comprehensive, AI-powered interactive notebook for the Bangladeshi HSC 2025-2026 syllabus (Batch '27). Covers Science, Business, and Humanities subjects with automated notes, quizzes, and a virtual tutor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
